@@ -1,0 +1,6 @@
+{
+  "name": "Classe - Meus Sites",
+  "description": "Um espaço para reunir, apresentar e organizar projetos digitais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
